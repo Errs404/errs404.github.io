@@ -225,23 +225,26 @@ span{
 }
 
 @keyframes words{
-    0%, 16%{
+    0%, 14%{
         content: "Web Developer";
     }
-    17%, 32%{
-        content: "Streammer";
+    14%, 28%{
+        content: "Vtuber";
     }
-    33%, 48%{
+    28%, 42%{
         content: "Developer";
     }
-    49%, 64%{
+    42%, 56%{
         content: "Youtuber";
     }
-    65%, 80%{
+    56%, 70%{
         content: "Tiktoker";
     }
-    81%, 100%{
+    70%, 84%{
         content: "Gammer";
+    }
+    84%, 100%{
+        content: "Streammer";
     }
 }
 
